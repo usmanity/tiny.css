@@ -1,0 +1,12 @@
+{
+  "name": "tiny.css",
+  "version": "0.0.1",
+  "description": "A tiny CSS framework",
+  "main": "index.js",
+  "repository": "git@github.com:usmanity/tiny.css.git",
+  "author": "Muhammad Usman <muhammad@usmanity.com>",
+  "license": "MIT",
+  "dependencies": {
+    "less": "^2.7.2"
+  }
+}
