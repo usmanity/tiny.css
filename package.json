@@ -1,6 +1,6 @@
 {
   "name": "tiny.css",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A tiny CSS framework",
   "main": "css/tiny.css",
   "repository": "git@github.com:usmanity/tiny.css.git",
