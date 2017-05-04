@@ -2,11 +2,13 @@
   "name": "tiny.css",
   "version": "0.0.1",
   "description": "A tiny CSS framework",
-  "main": "index.js",
+  "main": "css/tiny.css",
   "repository": "git@github.com:usmanity/tiny.css.git",
   "author": "Muhammad Usman <muhammad@usmanity.com>",
   "license": "MIT",
   "dependencies": {
-    "less": "^2.7.2"
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
   }
 }
